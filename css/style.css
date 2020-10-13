@@ -359,7 +359,71 @@ p.social-text {
 }
 .social-list {
     display: flex;
+    margin-bottom: 40px;
 }
 .social-list img {
     width: 25%;
 }
+p.follow {
+    font-size: 24px;
+    font-family: "Raleway";
+    color: rgb(59, 59, 59);
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1.2;
+    letter-spacing: 2px;
+}
+p.follow span {
+    text-decoration: underline;
+}
+
+.footer {
+    padding-top: 60px;
+    padding-bottom: 45px;
+    background-color: #1e1e1e;
+}
+.footer h2 {
+    font-size: 30px;
+    font-family: "Raleway";
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    margin-bottom: 150px;
+}
+ 
+.footer-body {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer-part h3 {
+    font-size: 18px;
+    font-family: "Raleway";
+    color: rgb(237, 237, 237);
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+.footer-part {
+    margin-bottom: 50px;
+}
+
+ul.footer-nav li {
+    font-size: 18px;
+    font-family: "Raleway";
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+ul.footer-nav li a {
+    color: rgb(237, 237, 237);
+}
+.footer-social-list {
+    display: flex;
+}
+.footer-social-list img {
+    margin-right: 10px;
+} 
