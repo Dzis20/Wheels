@@ -152,7 +152,6 @@
         flex-direction: column;
         align-items: center;
     } 
-    
     .team-list {
         justify-content: center;
     }
@@ -162,7 +161,6 @@
         flex-direction: column;
         align-items: center;
     }
-    
     .social-list img {
         width: 100%;
     }

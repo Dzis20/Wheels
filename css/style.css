@@ -4,8 +4,6 @@ body {
     font-size: 18px;
     color: #fff;
 }
-
-
 .container {
     max-width: 1536px;
     margin: 0 auto;
@@ -31,7 +29,6 @@ body {
     text-transform: uppercase;
     line-height: 1.2;
 }
-  
 .header-menu {
     display: flex;
     
@@ -120,7 +117,6 @@ ul.sticky-menu-nav li:first-child {
 ul.sticky-menu-nav li a {
     color:#3b3b3b;
 }
-
 .about {
     padding-top: 50px;
     padding-bottom: 70px;
@@ -142,7 +138,6 @@ ul.sticky-menu-nav li a {
     margin-bottom: 20px;
     letter-spacing: 5px;
 }
-
 .about img {
     margin-bottom: 20px;
 }
@@ -185,7 +180,6 @@ p.about-text {
     letter-spacing: 5px;
     margin-bottom: 20px;
 }
-
 p.statistic-text {
     font-size: 18px;
     font-family: "Raleway";
@@ -215,7 +209,6 @@ p.statistic-text {
     text-transform: uppercase;
     line-height: 1.2;
 }
-
 .product {
     padding-top: 50px;
     padding-bottom: 30px;
@@ -245,7 +238,6 @@ p.product-text {
     margin-bottom: 65px;
     letter-spacing: 2px;
 }
-
 .product-list {
     display: flex;
     flex-wrap: wrap;
@@ -271,7 +263,6 @@ p.product-text {
     line-height: 1.2;
     margin-bottom: 10px;
 }
-
 .team {
     background-color: #ededed;
     color: #1e1e1e;
@@ -332,7 +323,6 @@ p.team-text {
     line-height: 1.2;
     letter-spacing: 2px;
 }
-
 .social {
     padding-top: 70px;
     padding-bottom: 65px;
@@ -392,7 +382,7 @@ p.follow span {
     letter-spacing: 2px;
     margin-bottom: 150px;
 }
- 
+
 .footer-body {
     display: flex;
     justify-content: space-between;
@@ -409,7 +399,6 @@ p.follow span {
 .footer-part {
     margin-bottom: 50px;
 }
-
 ul.footer-nav li {
     font-size: 18px;
     font-family: "Raleway";
